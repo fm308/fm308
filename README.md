@@ -19,7 +19,7 @@ I am a technical specialist focused on bridging the gap between complex geospati
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%23013243.svg?style=for-the-badge&logo=BigQuery&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
